@@ -3,11 +3,14 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kkanekii" alt="kkanekii"/> </p>
 
 ```js
+//user
 const user = {
-name = 'kkaneki'
-age = '14'
-hobbies = 'Design, Code'
-languages = 'English'
+name:'kkaneki'
+age:'14'
+hobbies:'Design, Code'
+speakes:'English'
+};
+
 
 // code 
 casing = 'snake_casing'
@@ -15,12 +18,18 @@ text_editors = 'Sublime Text', 'VS Code', 'Atom'
 languages = 'JavaScript', 'Python'
 learning = 'React.js'
 }  
-function ask_me_about(subject1, subject2) {
-        subject1 = 'JavaScript'
-        subject2 = 'Python'
+function collab(subject1, subject2) {
+        // subject1 = 'JavaScript'
+        // subject2 = 'React.js'
+        answer = prompt('Enter A Subject')
+        
+        
+        if (answer == subject1 || subject2) {
+                want_to_collab == 'Yes'
+        } else {
+                want_to_collab == 'Sorry, Some other time'
+        }       
 }
-
-const looking_to_collab = 'React.js', 'Machine_learning'
 
 alert('Thank You For Visiting My Github Profile')
 ```
