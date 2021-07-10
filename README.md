@@ -27,10 +27,10 @@ alert('Thank You For Visiting My Github Profile')
 
 
 
-Contact<img src="Assets/Handshake.gif" height="32px">
+Contact<img src="/Handshake.gif" height="32px">
 </h2>
 
- [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/kkanekii) [<img src="https://github.com/kkanekii/kkanekii/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:jksheth46@gmail.com) 
+ [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/kkanekii) [<img src="https://github.com/kkanekii/kkanekii/main/Gmail.svg" alt="Gmail logo" height="32">](mailto:jksheth46@gmail.com) 
 
 
  <p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kkanekii&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p>
