@@ -5,37 +5,37 @@
 ```js
 //user
 const user = {
-name:'kkaneki'
-age:'14'
-hobbies:'Design, Code'
-speakes:'English'
+  name:'kkaneki',
+  age:'14',
+  hobbies:'Design, Code',
+  speaks_in:'English',
+  location: 'India'
 };
 
 
 // code 
-casing = 'snake_casing'
-text_editors = 'Sublime Text', 'VS Code', 'Atom'
-languages = 'JavaScript', 'Python'
-learning = 'React.js'
-}  
-function collab(subject1, subject2) {
-        let subject1 = 'JavaScript';
-        let subject2 = 'React.js';
-        answer = prompt('Enter A Subject');
+const code = {
+  casing:'snake_casing',
+  text_editors:'Sublime Text', 'VS Code', 'Atom',
+  languages:'JavaScript', 'Python',
+  learning'React.js', 
+  collaborate: function collab(subject1, subject2) {
+                let subject1 = 'JavaScript';
+                let subject2 = 'React.js';
+                let want_to_collab;
+                answer = prompt('Enter A Subject');
      
-        if (answer == subject1 || subject2) {
-                want_to_collab == 'Yes'
-        } else {
-                want_to_collab == 'Sorry, Some other time'
-        }       
+                if (answer == subject1 || subject2) {
+                        want_to_collab == 'Yes'
+                } else {
+                        want_to_collab == 'Sorry, Some other time'
+                  }       
+               };
 };
+
 
 alert('Thank You For Visiting My Github Profile')
 ```
-
-
-
-
 
 
  <p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kkanekii&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p>
