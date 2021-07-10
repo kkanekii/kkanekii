@@ -38,6 +38,7 @@ alert('Thank You For Visiting My Github Profile')
 ```
 
 
+
  <p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kkanekii&show_icons=true&title_color=fff&icon_color=82d4f7&text_color=d1dae3&bg_color=090909"> </p>
 
 <p align="center">
