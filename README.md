@@ -18,7 +18,7 @@ const code = {
   casing:'snake_casing',
   text_editors:'Sublime Text', 'VS Code', 'Atom',
   languages:'JavaScript', 'Python',
-  learning'React.js', 
+  learning: 'React.js', 
   collaborate: function collab(subject1, subject2) {
                 let subject1 = 'JavaScript';
                 let subject2 = 'React.js';
