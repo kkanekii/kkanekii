@@ -28,8 +28,10 @@ function code() {
     const busy() => {
        <Button value='work' onClick({} => 
             function checkbusy() = {
-                (!setWorking) ? 'sure' : 'sorry cant' 
-            checkbusy(); >
+                return (!setWorking) ? 'sure' : 'sorry cant' 
+            checkbusy();
+            };
+        >
            Click For Collab
            
        </Button> 
