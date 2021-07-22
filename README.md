@@ -5,7 +5,7 @@
 ```js
 //user
 const user = {
-  name:'kkaneki',
+  name:'Jai',
   age:'14',
   hobbies:'Design, Code',
   speaks_in:'English',
