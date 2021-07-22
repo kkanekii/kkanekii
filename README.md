@@ -14,23 +14,25 @@ const user = {
 
 
 // code 
-const code = {
-  casing:'snake_casing',
-  text_editors:'Sublime Text', 'VS Code', 'Atom',
-  languages:'JavaScript', 'Python',
-  learning: 'React.js', 
-  collaborate: function collab(subject1, subject2) {
-                let subject1 = 'JavaScript';
-                let subject2 = 'React.js';
-                let want_to_collab;
-                answer = prompt('Enter A Subject');
-     
-                if (answer == subject1 || subject2) {
-                        want_to_collab == 'Yes'
-                } else {
-                        want_to_collab == 'Sorry, Some other time'
-                  }       
-               };
+import React from 'react';
+import IconButton from @material-ui/icons;
+import { useState } from 'react';
+
+function code() {
+    const [ Casing, setCasing ] = useState('snake_casing');
+       <Button value='change' onClick({} => setCasing.change = CamelCase>
+          Code in React
+       </Button>
+    const text_editors = 'VScode';
+    const [Working, setWorking ] = useState(null)
+    const busy() => {
+       <Button value='work' onClick({} => 
+            function checkbusy() = {
+                (!setWorking) ? 'sure' : 'sorry cant' 
+            checkbusy(); >
+           Click For Collab
+           
+       </Button> 
 };
 
 
@@ -48,7 +50,7 @@ alert('Thank You For Visiting My Github Profile')
 Contact<img src="/Handshake.gif" height="32px">
 </h2>
 
- [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/kkanekii) [<img src="/Gmail.svg" alt="Gmail logo" height="32">](mailto:jksheth46@gmail.com) 
+[<img src="/Gmail.svg" alt="Gmail logo" height="32">](mailto:jksheth46@gmail.com) [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/kkanekii) 
 
 
 
