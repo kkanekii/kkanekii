@@ -20,9 +20,11 @@ import { useState } from 'react';
 
 function code() {
     const [ Casing, setCasing ] = useState('snake_casing');
-       <Button value='change' onClick({} => setCasing.change = CamelCase>
-          Code in React
-       </Button>
+      <IconButton>
+         <Button value='change' onClick({} => setCasing.change = CamelCase>
+            Code in React
+         </Button>
+      </IconButton>
     const text_editors = 'VScode';
     const [Working, setWorking ] = useState(null)
     const busy() => {
