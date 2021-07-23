@@ -21,7 +21,7 @@ import { useState } from 'react';
 function code() {
     const [ Casing, setCasing ] = useState('snake_casing');
       <IconButton>
-         <Button value='change' onClick({} => setCasing.change = CamelCase>
+         <Button value='change' onClick({} => setCasing.change = 'CamelCase'>
             Code in React
          </Button>
       </IconButton>
