@@ -19,14 +19,14 @@ import IconButton from @material-ui/icons;
 import { useState } from 'react';
 
 function code() {
-    const [ Casing, setCasing ] = useState('snake_casing');
+    const [ casing, setCasing ] = useState('snake_casing');
       <IconButton>
-         <Button value='change' onClick({} => setCasing.change = 'CamelCase'>
+         <Button value='change' onClick={() => setCasing.change = 'CamelCase'}>
             Code in React
          </Button>
       </IconButton>
     const text_editors = 'VScode';
-    const [Working, setWorking ] = useState(null)
+    const [working, setWorking ] = useState(null)
     const busy() => {
        <Button value='work' onClick({} => 
             function checkbusy() = {
