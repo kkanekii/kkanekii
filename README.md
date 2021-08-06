@@ -51,6 +51,8 @@ alert('Thank You For Visiting My Github Profile')
 
 <img src="https://metrics.lecoq.io/kkanekii" alt="Github Metrics">
 </p>
+
+For Further And UI Friendly interface, Please visit my [Portfolio](https://kkanekii-portfolio.netlify.app)
 Contact<img src="/Handshake.gif" height="32px">
 </h2>
 
