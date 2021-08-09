@@ -31,9 +31,9 @@ function code() {
        <Button value='work' onClick({} => 
             function checkbusy() = {
                 return (!setWorking) ? 'sure' : 'sorry cant' 
-            checkbusy();
+            
             };
-        >
+        >   checkbusy();
            Click For Collab
            
        </Button> 
