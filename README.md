@@ -39,6 +39,7 @@ function code() {
        </Button> 
 };
 
+<code />
 
 alert('Thank You For Visiting My Github Profile')
 ```
