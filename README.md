@@ -55,6 +55,8 @@ alert('Thank You For Visiting My Github Profile')
 </p>
 
 For Further And UI Friendly interface, Please visit my [Portfolio](https://kkanekii-portfolio.netlify.app)
+
+
 Contact<img src="/Handshake.gif" height="32px">
 </h2>
 
