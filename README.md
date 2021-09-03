@@ -86,3 +86,11 @@ Contact<img src="/Handshake.gif" height="32px">
  ```ruby
  put 'hello world'
  ```
+ ```c
+#include <stdio.h>
+int main()
+{
+	printf("Hello World");
+	return 0;
+}
+```
