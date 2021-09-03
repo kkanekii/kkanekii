@@ -1,4 +1,4 @@
-# Welcome
+<!-- # Welcome
 ### Thank You for Visiting my GitHub Profile!
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kkanekii" alt="kkanekii"/> </p>
 
@@ -72,3 +72,10 @@ Contact<img src="/Handshake.gif" height="32px">
 </div>
 
 <br>
+ -->
+ 
+ ```
+ print("hello world")
+ document.write('hello world')
+ Console.WriteLine('hello world')
+ ```
